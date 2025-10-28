@@ -13,7 +13,7 @@ export default function Home() {
 
         <div>
           <h1
-            className={`relative ${oswald.className} text-[15vh] text-white font-bold uppercase`}
+            className={`relative ${oswald.className} text-center text-[15vh] text-white font-bold uppercase`}
           >
             x8 Bikes
           </h1>
