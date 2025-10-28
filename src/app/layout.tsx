@@ -3,7 +3,7 @@ import "./globals.css";
 import Footer from "./components/Footer";
 
 export const metadata: Metadata = {
-  title: "Royal Bikes",
+  title: "x8 Bikes",
   description:
     "Rent bikes in Kozhikode at the best prices! Easy booking, well-maintained bikes, perfect for city rides and trips. Affordable & hassle-free rentals.",
   keywords: [

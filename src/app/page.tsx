@@ -15,7 +15,7 @@ export default function Home() {
           <h1
             className={`relative ${oswald.className} text-[15vh] text-white font-bold uppercase`}
           >
-            Royal Bikes
+            x8 Bikes
           </h1>
 
           <p
