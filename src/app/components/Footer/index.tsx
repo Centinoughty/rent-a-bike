@@ -23,7 +23,7 @@ const Footer = () => {
           className="mb-4 md:mb-0 hover:text-yellow-400 flex items-center"
         >
           <span className="mr-2 text-xl font-bold">➔</span>
-          contact@yourdomain.com
+          x8bikes@gmail.com
         </Link>
 
         {/* Phone Number */}
