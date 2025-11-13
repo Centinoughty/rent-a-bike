@@ -36,7 +36,7 @@ export default function Home() {
 
         <div className="absolute bottom-4 right-4 rounded-full bg-blue-600">
           <Link
-            href="tel:+1234567890"
+            href="tel:++918330044119"
             className="text-white p-4 block transform scale-x-[-1]"
           >
             <FaPhone size={25} />
