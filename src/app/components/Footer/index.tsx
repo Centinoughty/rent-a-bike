@@ -32,7 +32,7 @@ const Footer = () => {
           className="hover:text-yellow-400 flex items-center"
         >
           <span className="mr-2 text-xl font-bold">⟫</span>
-          +91 96339 01119
+          +91 83300 44119
         </Link>
 
         {/* Internal Page */}
